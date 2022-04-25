@@ -7,7 +7,7 @@
 <div>
   <a href="https://beacons.ai/TGuiDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
