@@ -1,7 +1,7 @@
 ## Olá! Eu sou GuiDev 🖐!
 
 - 🔭 Estudante de TI
-- 🌱 Estudando Python 
+- 🌱 Estudando JavaScript A Fundo
 
 
 <div>
