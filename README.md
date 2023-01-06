@@ -3,7 +3,6 @@
 - 🚀 • Estudando Back-End
 - ⭐ • Sempre buscando aprender novas tecnologias
 
-
 <div>
   <a href="https://beacons.ai/TGuiDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
