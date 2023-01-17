@@ -1,30 +1,78 @@
-### Oii, 👋 eu sou o Gui.Dev.
+<p align='center'><a href="https://github.com/TGUiDev"><img height="200" src="https://imgur.com/cxyi3WZ.png"" ></a>&nbsp;&nbsp;</p>
 
-- 🚀 • Estudando Back-End
-- ⭐ • Sempre buscando aprender novas tecnologias
+<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div>
-  <a href="https://beacons.ai/TGuiDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" style="width: 150px;" alt="Gui.Dev" src="https://media.discordapp.net/attachments/994592371981426749/997572250687512647/a_f23fc73ec7ed865eed42b1641bf09c48_1.gif">
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.youtube.com/coto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gui.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/alaska" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guirosaah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3 align="center">I'm <b>Gui.Dev</b> (19 y.o)! 😎</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b>
    
-</div>
+<br>
+<br>
 
-<!-- ![Snake animation](https://github.com/TGuiDev/TGuiDev/blob/output/github-contribution-grid-snake.svg) -->
+<a href="https://github.com/TGuiDev" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+<a href="https://instagram.com/gui.dev" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://t.me/@muryo" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://wa.me/+5519999897566" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://twitter.com/TGuiDev" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+
+</h2>
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
+
+- I'd like to do project that has relation to anime. 👻
+- A newbie to programming, but trying to get the hang of it.
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><img src="assets/skills.gif" width="25px">&nbsp;&nbsp;<b>Skills</b></h2>
+
+<br>
+
+- **Language**
+
+   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![PHP](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+- **Website**
+
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- **Database**
+
+   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-2e2d2b?style=for-the-badge&logo=mongodb&logoColor=green)
+   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+- **Software & Tools**
+
+   ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
+   ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- **IDE**
+
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![JetBrains](https://img.shields.io/badge/JetBrains-FFA500.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+   ![Sublime](https://img.shields.io/badge/Sublime-202124.svg?style=for-the-badge&logo=sublime-text&logoColor=orange)
+
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center"><img src="assets/stats.gif" width="35px"/><b> Github Stats </b></h2>
+
+<div align="center">
+   <a href="https://github.com/TGUiDev/">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGUiDev&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="TGUiDev"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobyG74&layout=compact&theme=synthwave" width="0"  alt="TGUiDev"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=TobyG74&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="TGUiDev"/>
+   </a>
+</div>
