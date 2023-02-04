@@ -38,7 +38,7 @@
    ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-e4000a?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-43853D?style=for-the-badge&logo=php&logoColor=white)
+   ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
 
 - **Website**
 
