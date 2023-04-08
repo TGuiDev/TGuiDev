@@ -71,8 +71,8 @@
 
 <div align="center">
    <a href="https://github.com/TGUiDev/">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGUiDev&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="TGUiDev"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobyG74&layout=compact&theme=synthwave" width="0"  alt="TGUiDev"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=TobyG74&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="TGUiDev"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGuiDev&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="TGUiDev"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&theme=synthwave" width="0"  alt="TGUiDev"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=TGuiDev&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="TGUiDev"/>
    </a>
 </div>
