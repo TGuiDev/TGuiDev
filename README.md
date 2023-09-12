@@ -1,6 +1,6 @@
 <p align='center'><a href="https://github.com/TGUiDev"><img height="200" src="https://imgur.com/xxebyHd.png"" ></a>&nbsp;&nbsp;</p>
 
-<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hi there</b></h1>
 
 <h3 align="center">I'm <b>Gui.Dev</b> (19y)! 😎</h3>
 
