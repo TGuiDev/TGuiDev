@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/NUX-Octodex-unscreen.gif" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/skate.png" />
 
 - 👨🏽‍💻 I’m currently working on [Pinhalense Máquinas Agricolas](https://pinhalense.com.br/);
 - 🌱 Learning Python and IoT | Focus on Node.js, automation and bots;
