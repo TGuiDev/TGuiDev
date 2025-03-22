@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/NUX-Octodex-unscreen.gif" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/NUX-Octodex-unscreen.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Pinhalense Máquinas Agricolas](https://pinhalense.com.br/);
 - 🌱 Learning Python and IoT | Focus on Node.js, automation and bots;
@@ -22,9 +22,6 @@
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/TGuiDev/handle-path-oz">
-    <img width="55%" align="right" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
-  </a>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -41,8 +38,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-</p>
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/TGuiDev/TGuiDev.svg" />
+  
+  <a href="https://github.com/TGuiDev/handle-path-oz">
+    <img width="55%" align="right" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
+  </a>
 </p>
