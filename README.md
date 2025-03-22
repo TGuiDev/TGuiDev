@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="45%" align="right" alt="Github" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/NUX-Octodex-unscreen.gif" />
 
 - 👨🏽‍💻 I’m currently working on [Pinhalense Máquinas Agricolas](https://pinhalense.com.br/);
 - 🌱 Learning Python and IoT | Focus on Node.js, automation and bots;
@@ -21,7 +21,7 @@
 
 **Languages and Tools:** 
 
-<p class="display: flex;" >
+<p>
   <a href="https://github.com/TGuiDev/handle-path-oz">
     <img width="55%" align="right" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
   </a>
@@ -43,12 +43,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 <p align="center">
-
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/TGuiDev/TGuiDev.svg" />
 </p>
