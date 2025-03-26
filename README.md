@@ -40,6 +40,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   
   <a href="https://github.com/TGuiDev/">
-    <img width="55%" align="right" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
+    <img width="55%" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
   </a>
 </p>
