@@ -97,11 +97,10 @@ Trabalho com o ecossistema **JavaScript** (React, Node.js), **C#** e **PHP**, se
 
 ---
 
-## 💼 Destaques
+## Destaques
+**Sistema de Datasheets Técnicos:** Ferramenta interna para geração e gestão de fichas técnicas de máquinas industriais, substituindo processos manuais por um sistema estruturado e escalável.
 
-🔧 **Sistema de Datasheets Técnicos:** Ferramenta interna para geração e gestão de fichas técnicas de máquinas industriais, substituindo processos manuais por um sistema estruturado e escalável.
-
-📦 **Sistema de Separação e Codificação de Itens:** Solução para organização e codificação de peças, melhorando a rastreabilidade e reduzindo erros em operações de inventário e manutenção.
+**Sistema de Separação e Codificação de Itens:** Solução para organização e codificação de peças, melhorando a rastreabilidade e reduzindo erros em operações de inventário e manutenção.
 
 *Mais projetos disponíveis em [guidev.site](https://guidev.site)*
 
