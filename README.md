@@ -1,45 +1,112 @@
-<!-- Your title -->
-## Hi, I'm Guilherme Portilho, a Developer 🚀 from Brazil.
+<h1 align="center">Guilherme Portilho &nbsp;·&nbsp; Full-Stack Developer</h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TGuiDev)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guid3v/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gui.dev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guilhermeportilhocontato@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:guilhermeportilhocontato@gmail.com)
-
-&nbsp;
-
-**Talking about Personal Stuffs:**
-
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/TGuiDev/.github/master/skate.png" />
-
-- 👨🏽‍💻 I’m currently working on [Pinhalense Máquinas Agricolas](https://pinhalense.com.br/);
-- 🌱 Learning Python and IoT | Focus on Node.js, automation and bots;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Curiosity: Passionate about development and automation;
-- 📫 How to reach me: guilhermeportilhocontato@gmail.com;
-
-**Languages and Tools:** 
-
-<p>
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  
-  <a href="https://github.com/TGuiDev/">
-    <img width="55%" alt="TGuiDev's github stats" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&hide_border=true" />
+<p align="center">
+  <a href="https://guidev.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" height="22" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/guid3v/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TGuiDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:guilhermeportilhocontato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Gmail" />
   </a>
 </p>
+
+---
+
+## Sobre mim
+
+Desenvolvedor Full-Stack com **8+ anos de experiência** na construção de soluções escaláveis, graduando em **Ciência da Computação**. Minha trajetória inclui suporte técnico e documentação de engenharia, onde desenvolvi uma visão analítica voltada à resolução de problemas reais, habilidade que hoje aplico diretamente na construção de software e integração de sistemas.
+
+Trabalho com o ecossistema **JavaScript** (React, Node.js), **C#** e **PHP**, sempre com foco em arquitetura limpa, boas práticas e código sustentável. Também tenho experiência prática com programação embarcada em **C/C++** (Arduino, ESP32, arquitetura ARM) e protocolos de comunicação como UART, SPI e I²C.
+
+```text
+🎓  Graduando em Ciência da Computação
+💼  Setor de Engenharia na Pinhalense Máquinas Agrícolas
+📚  Foco em Node.js, automação, bots e IoT
+🛹  Fora do código: games, skate e Arch Linux
+```
+
+---
+
+## 🚀 Stack
+
+### 🖥️ Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Back-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+
+### 🔌 Embarcado & IoT
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## 💼 Destaques
+
+🔧 **Sistema de Datasheets Técnicos:** Ferramenta interna para geração e gestão de fichas técnicas de máquinas industriais, substituindo processos manuais por um sistema estruturado e escalável.
+
+📦 **Sistema de Separação e Codificação de Itens:** Solução para organização e codificação de peças, melhorando a rastreabilidade e reduzindo erros em operações de inventário e manutenção.
+
+*Mais projetos disponíveis em [guidev.site](https://guidev.site)*
+
+---
+
+## Vamos conversar?
+
+Se você tem um projeto em mente, precisa de suporte técnico ou está buscando um desenvolvedor comprometido com qualidade, me chame. Estou sempre aberto a novas oportunidades e colaborações! 🚀
+
+---
