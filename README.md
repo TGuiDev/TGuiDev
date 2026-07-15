@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/TGuiDev/TGuiDev/main/banner.png)
+
 <h1 align="center">Guilherme Portilho &nbsp;·&nbsp; Full-Stack Developer</h1>
 
 <p align="center">
