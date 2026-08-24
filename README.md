@@ -93,32 +93,6 @@ Trabalho com o ecossistema **JavaScript** (React, Node.js), **C#** e **PHP**, se
 
 ---
 
-## 🐍 Snake Game (Contribuições)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGuiDev/TGuiDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGuiDev/TGuiDev/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/TGuiDev/TGuiDev/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## ⚡ Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 Destaques & Projetos
-
-- **Sistema de Datasheets Técnicos:** Ferramenta interna para geração e gestão de fichas técnicas de máquinas industriais, substituindo processos manuais por um sistema estruturado e escalável.
-- **Sistema de Separação e Codificação de Itens:** Solução para organização e codificação de peças, melhorando a rastreabilidade e reduzindo erros em operações de inventário e manutenção.
-
-👉 *Mais projetos disponíveis em [guidev.site](https://guidev.site)*
-
----
-
 ## 💬 Vamos conversar?
 
 Se você tem um projeto em mente, precisa de suporte técnico ou está buscando um desenvolvedor comprometido com qualidade, me chame. Estou sempre aberto a novas oportunidades e colaborações! 🚀
@@ -134,5 +108,96 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
   &nbsp;
   <a href="mailto:guilhermeportilhocontato@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 <a href="https://github.com/TGuiDev/link" target="_blank">Encurtador de Links</a></h3>
+      <p align="center">Encurtador moderno com dashboard autenticado, métricas de acesso em tempo real, slugs personalizados e geração de QR Codes customizáveis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/link" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 <a href="https://github.com/TGuiDev/Catalogo-de-Filmes" target="_blank">CineVerse</a></h3>
+      <p align="center">Aplicação web moderna para explorar filmes, séries e documentários com filtros inteligentes, detalhes dinâmicos e UI elegante.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/Catalogo-de-Filmes" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/TGuiDev/API_Server_L-J" target="_blank">API Server L&J Doces</a></h3>
+      <p align="center">Backend escalável em NestJS fornecendo autenticação, gestão de catálogo de produtos, pedidos, favoritos e analytics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/API_Server_L-J" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 <a href="https://github.com/TGuiDev/PI-2026.2" target="_blank">Smart Almoxarifado</a></h3>
+      <p align="center">Solução Web Inteligente para controle de almoxarifado industrial, rastreamento de ferramentas e conformidade com ODS 9 & 12.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full--Stack-6C5CE7?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="IoT" />
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square" alt="Database" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/PI-2026.2" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ <a href="https://github.com/TGuiDev/Saagim" target="_blank">Saagim Landing Page</a></h3>
+      <p align="center">Landing page de alto impacto com micro-interações fluidas em GSAP, performance otimizada e design responsivo.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/Saagim" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ <a href="https://github.com/TGuiDev/phpAdmin" target="_blank">phpAdmin</a></h3>
+      <p align="center">Gerenciador web intuitivo e leve para conexões, consultas e administração de bancos de dados relacionais.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TGuiDev/phpAdmin" target="_blank"><b>Ver Repositório ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://guidev.site" target="_blank">
+    <b>🌐 Explore mais projetos e soluções em guidev.site ➔</b>
   </a>
 </p>
