@@ -18,7 +18,7 @@ jobs:
       - name: Update Recent GitHub Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
         with:
           COMMIT_MSG: "⚡ Update recent GitHub activity [skip ci]"
           MAX_LINES: 5
