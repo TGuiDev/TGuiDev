@@ -1,6 +1,12 @@
-![Banner](https://raw.githubusercontent.com/TGuiDev/TGuiDev/main/banner.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20,24&height=180&section=header&text=Guilherme%20Portilho&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20IoT%20·%20Software%20Engineering&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+</p>
 
-<h1 align="center">Guilherme Portilho &nbsp;·&nbsp; Full-Stack Developer</h1>
+<p align="center">
+  <a href="https://guidev.site" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Full-Stack;Node.js+%7C+React+%7C+TypeScript;IoT+%26+Sistemas+Embarcados+(C%2FC%2B%2B);Foco+em+C%C3%B3digo+Limpo+e+Arquitetura+Escal%C3%A1vel" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://guidev.site" target="_blank">
@@ -118,7 +124,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔗 <a href="https://github.com/TGuiDev/link" target="_blank">Encurtador de Links</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/link" target="_blank">Encurtador de Links</a></h3>
       <p align="center">Encurtador moderno com dashboard autenticado, métricas de acesso em tempo real, slugs personalizados e geração de QR Codes customizáveis.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -130,7 +136,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 <a href="https://github.com/TGuiDev/Catalogo-de-Filmes" target="_blank">CineVerse</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/Catalogo-de-Filmes" target="_blank">CineVerse</a></h3>
       <p align="center">Aplicação web moderna para explorar filmes, séries e documentários com filtros inteligentes, detalhes dinâmicos e UI elegante.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -144,7 +150,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/TGuiDev/API_Server_L-J" target="_blank">API Server L&J Doces</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/API_Server_L-J" target="_blank">API Server L&J Doces</a></h3>
       <p align="center">Backend escalável em NestJS fornecendo autenticação, gestão de catálogo de produtos, pedidos, favoritos e analytics.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -156,7 +162,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📦 <a href="https://github.com/TGuiDev/PI-2026.2" target="_blank">Smart Almoxarifado</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/PI-2026.2" target="_blank">Smart Almoxarifado</a></h3>
       <p align="center">Solução Web Inteligente para controle de almoxarifado industrial, rastreamento de ferramentas e conformidade com ODS 9 & 12.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Full--Stack-6C5CE7?style=flat-square" alt="Full Stack" />
@@ -170,7 +176,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">✨ <a href="https://github.com/TGuiDev/Saagim" target="_blank">Saagim Landing Page</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/Saagim" target="_blank">Saagim Landing Page</a></h3>
       <p align="center">Landing page de alto impacto com micro-interações fluidas em GSAP, performance otimizada e design responsivo.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -182,7 +188,7 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗄️ <a href="https://github.com/TGuiDev/phpAdmin" target="_blank">phpAdmin</a></h3>
+      <h3 align="center"><a href="https://github.com/TGuiDev/phpAdmin" target="_blank">phpAdmin</a></h3>
       <p align="center">Gerenciador web intuitivo e leve para conexões, consultas e administração de bancos de dados relacionais.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -198,6 +204,6 @@ Se você tem um projeto em mente, precisa de suporte técnico ou está buscando 
 
 <p align="center">
   <a href="https://guidev.site" target="_blank">
-    <b>🌐 Explore mais projetos e soluções em guidev.site ➔</b>
+    <b>Explore mais dos meus projetos em guidev.site ➔</b>
   </a>
 </p>
