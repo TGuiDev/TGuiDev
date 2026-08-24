@@ -97,14 +97,14 @@ Trabalho com o ecossistema **JavaScript** (React, Node.js), **C#** e **PHP**, se
 
 <p align="center">
   <a href="https://github.com/TGuiDev">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TGuiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=94A3B8&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=94A3B8" alt="Linguagens Mais Utilizadas" />
+    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TGuiDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=94A3B8&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TGuiDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=94A3B8" alt="Linguagens Mais Utilizadas" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TGuiDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TGuiDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6C5CE7&sideLabels=94A3B8" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=TGuiDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6C5CE7&sideLabels=94A3B8" alt="GitHub Streak" />
   </a>
 </p>
 
