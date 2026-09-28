@@ -34,7 +34,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-00599C?style=flat-square&logo=Ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-FF0000?style=flat-square&logo=Ruby&logoColor=white)
 
 ### Embarcado & IoT
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
